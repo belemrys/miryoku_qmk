@@ -8,4 +8,4 @@ jobs:
   build:
     uses: ./.github/workflows/main.yml
     with:
-      keyboard: '["split_3x5_3"]'
+      keyboard: '["maple_computing/minidox"]'
